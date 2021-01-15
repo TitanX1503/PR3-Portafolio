@@ -1,0 +1,39 @@
+#main
+{
+    background-color: rgb(2, 2, 39);
+}
+
+#Text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#title
+{
+    color: white;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul
+{
+    list-style: none;
+    text-align: center;
+}
+
+li a:hover
+{
+    background-color: rgb(33, 34, 104);
+    color: rgb(184, 184, 184);
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 8px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
